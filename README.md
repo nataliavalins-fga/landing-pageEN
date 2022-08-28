@@ -1,5 +1,6 @@
 <img src= "https://user-images.githubusercontent.com/89141117/187097203-c3d2ce42-ed64-4133-b6fe-36b368183676.jpeg" width="200" height="200">
-# 4FOOD
+
+# LANDING PAGE 4FOOD
 
 ### Landing page built with HTML and CSS (it is responsive).
 
